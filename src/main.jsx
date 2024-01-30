@@ -7,6 +7,6 @@ import Random  from './Random.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Random />
+    <App />
   </React.StrictMode>,
 )
