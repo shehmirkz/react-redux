@@ -11,10 +11,10 @@ function App() {
       <AddTodo />
 
       <div className="row">
-        <div className="col-6">
+        <div className="col-6 text-left">
           Buy something
         </div>
-        <div className="col-4">
+        <div className="col-4 text-left">
           4/10/2023
         </div>
         <div className="col-2">
@@ -25,10 +25,10 @@ function App() {
       </div>
 
       <div className="row">
-        <div className="col-6">
+        <div className="col-6 text-left">
           Go to Shop
         </div>
-        <div className="col-4">
+        <div className="col-4 text-left">
           4/10/2023
         </div>
         <div className="col-2">
